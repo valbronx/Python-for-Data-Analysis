@@ -11,3 +11,5 @@ Le projet contient 5 fichiers en plus de ce fichier README.txt:
 
 Le contexe et l'objectif sont décris dans le fichier powerpoint "Python for Data Analysis.pptx". 
 Dans ce fichier powerpoint je résume aussi les réalisations effectuées dans les Pythons Notebooks.  
+
+Valentin Le Gall
